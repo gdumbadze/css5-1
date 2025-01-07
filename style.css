@@ -1,0 +1,289 @@
+body {
+    background: #07081A;
+}
+
+#header1 {
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-bottom: 88px;
+}
+
+#cloudo {
+    color: white;
+    font-family: Inter;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#home {
+    width: 46px;
+    align-self: stretch;
+    color: #B968DE;
+    font-size: 16px;
+    margin-right: 16px;
+}
+
+#centre {
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#inventori {
+    margin-right: 16px;
+    color: white;
+}
+
+#Support {
+    margin-right: 16px;
+    color: white;
+}
+
+#Guide {
+    color: white;
+}
+
+#logo1 {
+    background-color: #9100D3;
+    border-radius: 8px;
+}
+
+#mainbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#maintext {
+    color: white;
+    font-size: 48px;
+    width: 600px;
+    max-width: 100%;
+    text-align: center;
+    display: block;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#maintext1 {
+    display: flex;
+    color: #C0C0C0;
+    font-size: 16px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 32px;
+    color: #FFF;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+#button1 {
+    display: flex;
+    color: #FFF;
+    justify-content: center;
+    align-items: center;
+    font-size: 16px;
+    background-color: #9100D3;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 12px 24px;
+    border-radius: 8px;
+    margin-bottom: 88px;
+}
+
+
+#mainlogo {
+    display: flex;
+    justify-content: space-around;
+    display: flex;
+    height: 72px;
+    padding: 0px 72px 24px 72px;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 90px;
+}
+
+#logo2 {
+    display: flex;
+    /* margin-top: 88px; */
+}
+
+#logo22 {
+    width: 40px;
+    height: 48px;
+}
+
+#OdeaLabs {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 12px;
+}
+
+#logo3 {
+    display: flex;
+    /* margin-top: 88px; */
+}
+
+#logo33 {
+    width: 39px;
+    height: 48px;
+}
+
+#Stacked {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 12px;
+}
+
+#logo4 {
+    display: flex;
+    /* margin-top: 88px; */
+
+}
+
+#logo44 {
+    display: flex;
+    width: 48px;
+    height: 48px;
+}
+
+#Magnolia {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 12px;
+    /* margin-top: 84px; */
+}
+
+#logo5 {
+    display: flex;
+    width: 32px;
+    height: 48px;
+    /* margin-top: 88px; */
+}
+
+
+#Sisyphus {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    margin: 12px;
+}
+
+#mainwrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 88x;
+    margin: 0 auto;
+}
+
+#lastmainbox {
+    display: flex;
+    align-items: center;
+    gap: 64px;
+}
+
+#firstbox {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    padding: 16px 24px;
+}
+
+#Anylanguage {
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+#text1 {
+    color: #C0C0C0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    width: 256px;
+
+}
+
+#mainLastBox {
+    display: flex;
+    align-items: flex-start;
+    gap: 64px;
+    justify-content: space-around;
+    margin-top: 88px;
+    width: 1040px;
+}
+
+.lastBox {
+    display: flex;
+    padding: 16px 24px;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 16px;
+    border-radius: 8px;
+    border: 1px solid #261C51 !important;
+}
+
+.boxHeading {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+}
+
+.boxText {
+    color: #C0C0C0;
+    font-family: Inter;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    align-self: stretch;
+    line-height: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#lastBox1 {
+    display: flex;
+    margin-top: 88px;
+}
+
+
+#lasttext {
+    display: flex;
+    align-items: center;
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    margin-right: 363px;
+}
+
+.footerbox {
+    display: flex;
+    gap: 24px;
+}
+
+#lastbox11 {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+    margin-top: 88px;
+    padding-top: 20px;
+    border-top: 1px solid #261C51; ;
+}
